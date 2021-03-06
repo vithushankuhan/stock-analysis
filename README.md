@@ -17,14 +17,14 @@ By looking at the images below, it is clear that green stocks performed better i
 <img width="221" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/76541288/110214693-cc5e4100-7e73-11eb-8600-835158c15e09.png">
 
 ### 2017 Stock Refactored Code
-As seen in the images below, the refactored code significantly improved the efficiency of the analysis on the 2017 performance of green stocks. The refactorred code(bottom) was executed 92% quicker than the original code(top).
+As seen in the images below, the refactored code significantly improved the efficiency of the analysis on the 2017 performance of green stocks. The refactored code(bottom) was executed 92% quicker than the original code(top). These numbers will vary every time the code is executed, but on average the refactored code is much more efficienct.
 
 <img width="425" alt="2017 Initial Analysis Time" src="https://user-images.githubusercontent.com/76541288/110214524-fe22d800-7e72-11eb-9de2-3b83d4906495.png">
 <img width="423" alt="2017 Refactored Time" src="https://user-images.githubusercontent.com/76541288/110214531-067b1300-7e73-11eb-8d18-c51ad886277e.png">
 
 
 ### 2018 Stock Refactored Code
-As seen in the images below, the refactored code significantly improved the efficiency of the analysis on the 2018 performance of green stocks. The refactorred code(bottom) was executed 89% quicker than the original code(top).
+As seen in the images below, the refactored code significantly improved the efficiency of the analysis on the 2018 performance of green stocks. The refactored code(bottom) was executed 89% quicker than the original code(top).These numbers will vary every time the code is executed, but on average the refactored code is much more efficienct.
 
 <img width="424" alt="2018 Initial Analysis Time" src="https://user-images.githubusercontent.com/76541288/110214555-1dba0080-7e73-11eb-8570-8bd063349542.png">
 <img width="424" alt="2018 Refactored Time" src="https://user-images.githubusercontent.com/76541288/110214573-2f030d00-7e73-11eb-8178-397c17de767f.png">
