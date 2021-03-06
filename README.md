@@ -11,7 +11,7 @@ In stocks_analysis.xlsm, an analyzis of the dozen stocks was executed using VBA.
 ## Results
 
 ### 2017 vs 2018 Stock Performance
-By looking at the images below, it is clear that green stocks performed better in 2017 than in 2018. 
+By looking at the images below, it is clear that green stocks performed better in 2017 than in 2018. Looking closely, ENPH and RUN are the only two stocks to consistently be in the green in 2017 and 2018. Every other stock either took a turn and performed worse in 2018 or stayed in the red, like TERP. Steve should look into ENPH and RUN as these stocks could be promising investments. 
 
 <img width="221" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/76541288/110214691-c6686000-7e73-11eb-8b0f-e4c9a219e5c2.png">
 <img width="221" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/76541288/110214693-cc5e4100-7e73-11eb-8600-835158c15e09.png">
