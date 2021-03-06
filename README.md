@@ -17,7 +17,7 @@ By looking at the images below, it is clear that green stocks performed better i
 <img width="221" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/76541288/110214693-cc5e4100-7e73-11eb-8600-835158c15e09.png">
 
 ### 2017 Stock Refactored Code
-As seen in the images below, the refactored code significantly improved the efficiency of the analysis on the 2017 performance of green stocks. The refactored code(bottom) was executed 92% quicker than the original code(top). These numbers will vary every time the code is executed, but on average the refactored code is much more efficienct. The refactored message box image can be found in the Resources folder.
+As seen in the images below, the refactored code significantly improved the efficiency of the analysis on the 2017 performance of green stocks. The refactored code(bottom) was executed 92% quicker than the original code(top). These numbers will vary every time the code is executed, but on average the refactored code is much more efficienct. The refactored message box image can be found in the Resources folder. The orignial code did not contain this variable and as a result had to spend more time looping through
 
 <img width="425" alt="2017 Initial Analysis Time" src="https://user-images.githubusercontent.com/76541288/110214524-fe22d800-7e72-11eb-9de2-3b83d4906495.png">
 <img width="423" alt="2017 Refactored Time" src="https://user-images.githubusercontent.com/76541288/110214531-067b1300-7e73-11eb-8d18-c51ad886277e.png">
@@ -38,4 +38,6 @@ Advantages
 Disadvantages
 - One of the main disadvantages of refactoring code it the time it takes to refactor code. Since the process of refactoring requires the editor to understand the code thoroughly and identify potential areas of improvement, the whole process of refactoring can take a significant amount of time depending on the length and complexity of the code. To add on to this point, refactoring code for large project might be ineffective. It would be much easier to re-write the code from scratch instead of working out a solution from the initial code. This will also save time which as mentioned earlier can be a major drawback from refactoring code. 
 
-With all that being said, the refactored code for Steve's analysis on green stocks definetly makes it much quicker for Steve to run his analysis. 
+With all that being said, the refactored code for Steve's analysis on green stocks definetly makes it much quicker for Steve to run his analysis. One of the changes made to the refactored code was the reduction of a loop. Instead of running two loops to access the tickers, we now have one loop. This allows the data to be accessed much quicker, thus reducing the scripts processing time. 
+
+
