@@ -3,7 +3,7 @@
 ## Overview and Purpose
 
 ### Overview
-Steve, a recent finance graduate wants to help his parents invest in stocks. More specifically, they want to invest in greeen energy stocks as they believe that as more fossil fuels get used up, there will be an increased demand for alternative energy sources. In this analysis, the performance of a dozen green energy stocks was analyzed. Steve's parents want to invest into DAQO New Energy Corporation. Instead, Steven wants to analyze other green energy stocks in addition to DAQO to get a better picture of the green energy sector, and create a stronger portfolio for his parents. 
+Steve, a recent finance graduate wants to help his parents invest in stocks. More specifically, they want to invest in greeen energy stocks as they believe that as more fossil fuels get used up, there will be an increased demand for alternative energy sources. In this analysis, the performance of a dozen green energy stocks was analyzed. Steve's parents want to invest into DAQO New Energy Corporation. Instead, Steve wants to analyze other green energy stocks in addition to DAQO to get a better picture of the green energy sector, and create a stronger portfolio for his parents. 
 
 ### Purpose
 In stocks_analysis.xlsm, an analyzis of the dozen stocks was executed using VBA. The Purpose of this challenge is to refactor the original stock_analysis code to make it more efficient for larger datasets. At the end of the analysis, time taken to execute the code was observed. By refactoring the original code, we aim to improve the code's effficiency by taking fewer steps, using less memory, or improving the logic in order to reduce the time taken to execute the code.
