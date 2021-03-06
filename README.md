@@ -10,14 +10,20 @@ In stocks_analysis.xlsm, an analyzis of the dozen stocks was executed using VBA.
 
 ## Results
 
-### 2017 Stock Performance
+### 2017 vs 2018 Stock Performance
+By looking at the images below, it is clear that green stocks performed better in 2017 than in 2018. 
+
+<img width="221" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/76541288/110214691-c6686000-7e73-11eb-8b0f-e4c9a219e5c2.png">
+<img width="221" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/76541288/110214693-cc5e4100-7e73-11eb-8600-835158c15e09.png">
+
+### 2017 Stock Refactored Code
 As seen in the images below, the refactored code significantly improved the efficiency of the analysis on the 2017 performance of green stocks. The refactorred code(bottom) was executed 92% quicker than the original code(top).
 
 <img width="425" alt="2017 Initial Analysis Time" src="https://user-images.githubusercontent.com/76541288/110214524-fe22d800-7e72-11eb-9de2-3b83d4906495.png">
 <img width="423" alt="2017 Refactored Time" src="https://user-images.githubusercontent.com/76541288/110214531-067b1300-7e73-11eb-8d18-c51ad886277e.png">
 
 
-### 2018 Stock Performance
+### 2018 Stock Refactored Code
 As seen in the images below, the refactored code significantly improved the efficiency of the analysis on the 2018 performance of green stocks. The refactorred code(bottom) was executed 89% quicker than the original code(top).
 
 <img width="424" alt="2018 Initial Analysis Time" src="https://user-images.githubusercontent.com/76541288/110214555-1dba0080-7e73-11eb-8570-8bd063349542.png">
